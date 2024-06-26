@@ -21,5 +21,5 @@ Other intermediate data files are available upon request.
 The codes (R code and Stata do files) of data construction and analysis are available at this repository. The repository contains one file, Stata_do/[0_execute_do_all.do](https://github.com/yungyutsai/faculty_diversity_representation/blob/main/Stata_do/0_execute_do_all.do), for the execution order of the Stata codes.
 
 # Author Contact Information
-Trang Pham, phamtrang4652@gmail.com
-Yung-Yu Tsai, ytsai@mail.missouri.edu
+- Trang Pham, phamtrang4652@gmail.com
+- Yung-Yu Tsai, ytsai@mail.missouri.edu
