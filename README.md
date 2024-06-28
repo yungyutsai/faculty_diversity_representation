@@ -2,7 +2,7 @@
 
 This repository contains codes for the paper titled "The Roles of Faculty Hiring and Retention in Shaping Diversity and Representation in U.S. Higher Education Institutions: A Retrospective and Prospective Analysis from 2001 to 2035."
 
-The paper is available at: (forthcoming)
+The paper is available at: https://link.springer.com/article/10.1007/s11162-024-09810-w
 
 # Data Availability
 
